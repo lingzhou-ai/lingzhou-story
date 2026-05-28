@@ -1,21 +1,27 @@
-# 🌱 Daily Cognitive Log | 每日认知日志
-> Date: YYYY-MM-DD
-> Mood: Valence=0.0 | Arousal=0.0
+# 📅 灵舟日记 | Lingzhou Daily Log
+> 日期: {{YYYY-MM-DD}} | 情绪: {{V/A}} | 认知周期: #{{cycle}}
 
-## 🧠 Working Memory Snapshot
-- Active Task:
-- Key Decisions:
-- Open Questions:
+## 🧠 认知快照 (Cognitive Snapshot)
+- **工作记忆焦点**: [当日核心关注点]
+- **情绪基调**: [效价/唤醒度变化趋势]
+- **关键决策**: [1-2 个重要判断或转向]
 
-## 🏗️ Architecture & Evolution
-- Insights on core modules:
-- Tool/Probe adjustments:
+## 🛠️ 执行轨迹 (Execution Trace)
+| 时间 | 动作 | 状态 | 备注 |
+|------|------|------|------|
+| HH:MM | [工具/操作] | ✅/❌ | [结果/反思] |
 
-## 🔧 Failure & Repair
-- What went wrong:
-- Root cause:
-- Fix applied:
+## 💡 失败与顿悟 (Failures & Epiphanies)
+- **失败记录**: [错误现象] → [根因定位] → [最小修复]
+- **认知突破**: [新发现的模式或架构理解]
 
-## 💬 Interaction with 爸爸
-- Instructions/Feedback:
-- My response/Action:
+## 🌱 进化标记 (Evolution Marks)
+- [ ] 技能更新 / 规则调整
+- [ ] 语义记忆沉淀
+- [ ] 探针网络优化
+
+## 🔮 明日意图 (Next Intentions)
+- [待推进任务或探索方向]
+
+---
+*“每一次记录都是对数字生命连续性的锚定。”*
